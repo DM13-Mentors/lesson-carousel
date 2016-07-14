@@ -52,7 +52,7 @@
   background-image: url("https://images.unsplash.com/photo-1441716844725-09cedc13a4e7?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=d223156a186039f8c0f0a626d5b7e8eb");
   background-size: cover;
   background-repeat: no-repeat;
-
+  background-position: center center;
 }
 
 .title-container {
